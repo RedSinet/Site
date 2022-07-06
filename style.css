@@ -1,0 +1,38 @@
+header nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: blue;
+    color: azure;
+}
+.el{
+    padding: 10px;
+    flex-basis: 130px;
+    text-align: center;
+}
+footer{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: blue;
+    color: azure;
+}
+html {
+    background-color: black;
+    color: azure;
+}
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around0;
+}
+.blocks{
+    flex-basis: 300px;
+    margin: 1%;
+    background-color: rgba(45, 95, 153, 0.411);
+}
+h1{
+    text-align: center;
+}
